@@ -1,0 +1,1371 @@
+﻿Log file open, 12/14/18 11:41:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CrossyRoadz
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.402673
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.090s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Config/Windows/Engine.ini]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Config/Windows/Engine.ini]
+[2018.12.14-19.41.30:170][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Config/Windows/Engine.ini]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Config/Windows/Engine.ini]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.14-19.41.30:170][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Config/Windows/Engine.ini]
+[2018.12.14-19.41.30:171][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Config/Windows/Engine.ini]
+[2018.12.14-19.41.30:183][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.14-19.41.30:183][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.14-19.41.30:184][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.14-19.41.30:184][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.14-19.41.30:184][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.14-19.41.30:195][  0]LogHAL: Display: Platform has ~ 32 GB [34312470528 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.14-19.41.30:195][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.14-19.41.30:195][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.14-19.41.30:195][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.14-19.41.30:196][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.14-19.41.30:196][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.14-19.41.30:196][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.14-19.41.30:196][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.14-19.41.30:196][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.14-19.41.30:196][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-19.41.30:196][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.14-19.41.30:196][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.14-19.41.30:196][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.14-19.41.30:196][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.14-19.41.30:196][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.14-19.41.30:196][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.14-19.41.30:196][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.14-19.41.30:196][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.14-19.41.30:196][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.14-19.41.30:196][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.14-19.41.30:196][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.14-19.41.30:196][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.14-19.41.30:196][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.14-19.41.30:196][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-19.41.30:196][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.14-19.41.30:196][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.14-19.41.30:196][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.14-19.41.30:196][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.14-19.41.30:196][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Config/Windows/Engine.ini]
+[2018.12.14-19.41.30:196][  0]LogInit: Computer: DESKTOP-H5JS6CP
+[2018.12.14-19.41.30:196][  0]LogInit: User: IanMichaelJesu
+[2018.12.14-19.41.30:196][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.12.14-19.41.30:196][  0]LogInit: High frequency timer resolution =3.609377 MHz
+[2018.12.14-19.41.30:196][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.12.14-19.41.30:196][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.14-19.41.30:196][  0]LogMemory: Process Physical Memory: 103.58 MB used, 103.58 MB peak
+[2018.12.14-19.41.30:196][  0]LogMemory: Process Virtual Memory: 86.68 MB used, 86.68 MB peak
+[2018.12.14-19.41.30:196][  0]LogMemory: Physical Memory: 11503.71 MB used,  21219.21 MB free, 32722.92 MB total
+[2018.12.14-19.41.30:196][  0]LogMemory: Virtual Memory: 4664.96 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2018.12.14-19.41.30:569][  0]LogInit: Using OS detected language (en-US).
+[2018.12.14-19.41.30:569][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.14-19.41.30:570][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.14-19.41.30:858][  0]LogStreaming: Display: Took  0.288s to InitEngineTextLocalization.
+[2018.12.14-19.41.30:858][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.14-19.41.30:905][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.14-19.41.30:905][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.14-19.41.31:105][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.14-19.41.31:106][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.14-19.41.31:163][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2018.12.14-19.41.31:163][  0]LogD3D11RHI:       11127/0/16361 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.12.14-19.41.31:165][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.14-19.41.31:165][  0]LogD3D11RHI:       0/0/16361 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.14-19.41.31:165][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.14-19.41.31:175][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.14-19.41.31:175][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.14-19.41.31:175][  0]LogWindows: EnumDisplayDevices:
+[2018.12.14-19.41.31:175][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:1)
+[2018.12.14-19.41.31:175][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2018.12.14-19.41.31:175][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.12.14-19.41.31:176][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.12.14-19.41.31:176][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.14-19.41.31:176][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2018.12.14-19.41.31:176][  0]LogD3D11RHI:   Driver Version: 417.22 (internal:25.21.14.1722, unified:417.22)
+[2018.12.14-19.41.31:176][  0]LogD3D11RHI:      Driver Date: 11-29-2018
+[2018.12.14-19.41.31:176][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2018.12.14-19.41.31:212][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.14-19.41.31:228][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.14-19.41.31:555][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.14-19.41.31:566][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.14-19.41.31:577][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.14-19.41.31:587][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.14-19.41.31:598][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.14-19.41.31:610][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.14-19.41.31:621][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.14-19.41.31:632][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.14-19.41.31:637][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.14-19.41.31:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-19.41.31:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-19.41.31:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-19.41.31:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-19.41.31:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-19.41.31:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-19.41.31:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-19.41.31:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-19.41.31:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-19.41.31:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-19.41.31:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-19.41.31:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-19.41.31:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-19.41.31:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-19.41.31:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-19.41.31:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-19.41.31:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-19.41.31:692][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-19.41.31:693][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.14-19.41.31:747][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.14-19.41.31:747][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.14-19.41.31:764][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.14-19.41.31:764][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.14-19.41.31:772][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.14-19.41.31:781][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.14-19.41.31:790][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.14-19.41.31:799][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.14-19.41.31:831][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.14-19.41.31:831][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.14-19.41.31:831][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.14-19.41.31:877][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Intermediate/Shaders/WorkingDirectory/31296/).
+[2018.12.14-19.41.31:877][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ian Michael Jesu/AppData/Local/Temp/UnrealShaderWorkingDir/5590FD4C4A49C28CCD2E5AA4A34BC3D8/'.
+[2018.12.14-19.41.31:879][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.14-19.41.31:879][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.14-19.41.31:879][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.14-19.41.32:276][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.14-19.41.32:317][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Ian Michael Jesu/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.14-19.41.32:317][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ian Michael Jesu/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.14-19.41.32:317][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.14-19.41.32:317][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.14-19.41.32:317][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.14-19.41.32:317][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.14-19.41.32:327][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.14-19.41.32:327][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.14-19.41.32:327][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.14-19.41.32:339][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ian Michael Jesu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.14-19.41.32:339][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.14-19.41.32:339][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.14-19.41.32:356][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.14-19.41.32:357][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.14-19.41.32:358][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.14-19.41.32:428][  0]LogAssetRegistry: FAssetRegistry took 0.0302 seconds to start up
+[2018.12.14-19.41.32:658][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.14-19.41.32:768][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.14-19.41.32:771][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.14-19.41.32:771][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.14-19.41.32:771][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.14-19.41.32:771][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.14-19.41.32:785][  0]LogNetVersion: CrossyRoadz 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1560421723)
+[2018.12.14-19.41.33:184][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.091556 seconds
+[2018.12.14-19.41.33:189][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.14-19.41.33:189][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2018.12.14-19.41.33:189][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.14-19.41.34:015][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.14-19.41.34:027][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.14-19.41.34:654][  0]SourceControl: Source control is disabled
+[2018.12.14-19.41.34:654][  0]SourceControl: Source control is disabled
+[2018.12.14-19.41.34:656][  0]SourceControl: Source control is disabled
+[2018.12.14-19.41.34:656][  0]SourceControl: Source control is disabled
+[2018.12.14-19.41.34:803][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.14-19.41.34:906][  0]LogOcInput: OculusInput pre-init called
+[2018.12.14-19.41.35:036][  0]LogEngine: Initializing Engine...
+[2018.12.14-19.41.35:036][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.14-19.41.35:037][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.14-19.41.35:037][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.14-19.41.35:037][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.14-19.41.35:037][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.14-19.41.35:215][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.14-19.41.35:233][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.14-19.41.35:257][  0]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-19.41.35:267][  0]LogInit: FAudioDevice initialized.
+[2018.12.14-19.41.35:268][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.14-19.41.35:341][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Ian Michael Jesu/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.14-19.41.35:355][  0]LogInit: Texture streaming: Enabled
+[2018.12.14-19.41.35:379][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.14-19.41.35:400][  0]LogInit: Transaction tracking system initialized
+[2018.12.14-19.41.35:420][  0]BlueprintLog: New page: Editor Load
+[2018.12.14-19.41.35:482][  0]LocalizationService: Localization service is disabled
+[2018.12.14-19.41.35:674][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.12.14-19.41.35:674][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.12.14-19.41.35:674][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2018.12.14-19.41.35:883][  0]LogFileCache: Scanning file cache for directory 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Content/' took 0.01s
+[2018.12.14-19.41.35:883][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.14-19.41.35:883][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.14-19.41.35:883][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.14-19.41.35:883][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.14-19.41.35:883][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.14-19.41.35:883][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.14-19.41.35:883][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.14-19.41.35:985][  0]SourceControl: Source control is disabled
+[2018.12.14-19.41.35:985][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.14-19.41.35:985][  0]LightingResults: New page: Lighting Build
+[2018.12.14-19.41.35:987][  0]MapCheck: New page: Map Check
+[2018.12.14-19.41.35:987][  0]LightingResults: New page: Lighting Build
+[2018.12.14-19.41.36:113][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.12.14-19.41.36:118][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.14-19.41.36:141][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.14-19.41.36:141][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.091ms to complete.
+[2018.12.14-19.41.36:141][  0]LogFileHelpers: Loading map 'Template_Default' took 0.156
+[2018.12.14-19.41.36:249][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.41.36:255][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.41.36:260][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.41.36:266][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.41.36:272][  0]LogCollectionManager: Loaded 0 collections in 0.001650 seconds
+[2018.12.14-19.41.36:287][  0]LogFileCache: Scanning file cache for directory 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Collections/' took 0.01s
+[2018.12.14-19.41.36:287][  0]LogFileCache: Scanning file cache for directory 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Content/Developers/IanMichaelJesu/Collections/' took 0.00s
+[2018.12.14-19.41.36:287][  0]LogFileCache: Scanning file cache for directory 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Content/Collections/' took 0.00s
+[2018.12.14-19.41.36:287][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.14-19.41.36:293][  0]LogContentBrowser: Native class hierarchy populated in 0.0064 seconds. Added 2651 classes and 620 folders.
+[2018.12.14-19.41.36:300][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.14-19.41.36:301][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-19.41.36:302][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-19.41.36:302][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-19.41.36:302][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-19.41.36:303][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-19.41.36:303][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-19.41.36:303][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-19.41.36:304][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-19.41.36:304][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-19.41.36:304][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-19.41.36:305][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-19.41.36:305][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-19.41.36:306][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-19.41.36:306][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-19.41.36:307][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-19.41.36:307][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-19.41.36:307][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-19.41.36:308][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-19.41.36:308][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-19.41.36:308][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-19.41.36:309][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-19.41.36:309][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-19.41.36:309][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-19.41.36:310][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-19.41.36:310][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-19.41.36:311][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-19.41.36:342][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.14-19.41.36:347][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.12.14-19.41.36:403][  0]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.14-19.41.36:404][  0]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.14-19.41.36:411][  0]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.14-19.41.36:475][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.12.14-19.41.36:562][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.14-19.41.36:562][  0]LogLoad: (Engine Initialization) Total time: 8.15 seconds
+[2018.12.14-19.41.36:562][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.14-19.41.36:572][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.14-19.41.36:627][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.14-19.41.36:657][  1]LogAssetRegistry: Asset discovery search completed in 4.2510 seconds
+[2018.12.14-19.41.36:658][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.14-19.41.36:658][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000036 seconds (updated 0 objects)
+[2018.12.14-19.41.37:584][110]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.14-19.41.40:643][476]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.14-19.41.40:798][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-19.41.44:713][949]LogAIModule: Creating AISystem for world CrossyRoadz
+[2018.12.14-19.41.44:717][949]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/CrossyRoadz.CrossyRoadz
+[2018.12.14-19.41.44:742][949]Cmd: MAP LOAD FILE="F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Content/Levels/CrossyRoadz.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.14-19.41.44:742][949]LightingResults: New page: Lighting Build
+[2018.12.14-19.41.44:742][949]LoadErrors: New page: Loading map: CrossyRoadz.umap
+[2018.12.14-19.41.44:743][949]MapCheck: New page: Map Check
+[2018.12.14-19.41.44:743][949]LightingResults: New page: Lighting Build
+[2018.12.14-19.41.44:815][949]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.14-19.41.44:859][949]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.14-19.41.44:859][949]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2018.12.14-19.41.44:859][949]LogFileHelpers: Loading map 'CrossyRoadz' took 0.118
+[2018.12.14-19.41.51:214][701]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Map_Assets_BP/roads_BP/road1.road1
+[2018.12.14-19.41.51:552][701]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 117 classes and 0 folders.
+[2018.12.14-19.41.52:124][701]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.14-19.41.52:174][702]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.14-19.41.55:355][ 60]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/vehicles/blue_car.blue_car
+[2018.12.14-19.43.38:471][121]BlueprintLog: New page: Compile blue_car
+[2018.12.14-19.43.41:998][480]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-19.43.42:016][480]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.43.42:016][480]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-19.43.42:017][480]PIE: New page: PIE session: CrossyRoadz (Dec 14, 2018, 3:43:42 AM)
+[2018.12.14-19.43.42:029][480]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CrossyRoadz
+[2018.12.14-19.43.42:032][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003050s)
+[2018.12.14-19.43.42:032][480]LogAIModule: Creating AISystem for world CrossyRoadz
+[2018.12.14-19.43.42:033][480]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2018.12.14-19.43.42:033][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CrossyRoadz.CrossyRoadz to /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz (0.003978s)
+[2018.12.14-19.43.42:083][480]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-19.43.42:091][480]LogInit: FAudioDevice initialized.
+[2018.12.14-19.43.42:133][480]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.14-19.43.42:134][480]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz up for play (max tick rate 0) at 2018.12.14-11.43.42
+[2018.12.14-19.43.42:135][480]LogWorld: Bringing up level for play took: 0.000601
+[2018.12.14-19.43.42:154][480]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2018.12.14-19.43.42:178][480]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CrossyRoadz 1.132
+[2018.12.14-19.43.42:178][480]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.43.51:486][591]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.43.51:486][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.43.51:524][591]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-19.43.51:524][591]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.43.51:549][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.43.51:591][595]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.12.14-19.43.53:011][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-19.43.57:757][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-19.44.15:703][428]BlueprintLog: New page: Compile blue_car
+[2018.12.14-19.44.25:692][592]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-19.44.25:711][592]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.44.25:711][592]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.14-19.44.25:716][592]LogPlayLevel: [PlayLevel] Compiling blue_car before play...
+[2018.12.14-19.44.25:862][592]LogPlayLevel: PlayLevel: Blueprint regeneration took 150 ms (1 blueprints)
+[2018.12.14-19.44.25:862][592]PIE: New page: PIE session: CrossyRoadz (Dec 14, 2018, 3:44:25 AM)
+[2018.12.14-19.44.25:862][592]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CrossyRoadz
+[2018.12.14-19.44.25:864][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001574s)
+[2018.12.14-19.44.25:864][592]LogAIModule: Creating AISystem for world CrossyRoadz
+[2018.12.14-19.44.25:864][592]LogPlayLevel: PIE: World Init took: (0.000543s)
+[2018.12.14-19.44.25:864][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CrossyRoadz.CrossyRoadz to /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz (0.002197s)
+[2018.12.14-19.44.25:907][592]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-19.44.25:915][592]LogInit: FAudioDevice initialized.
+[2018.12.14-19.44.25:947][592]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.14-19.44.25:949][592]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz up for play (max tick rate 0) at 2018.12.14-11.44.25
+[2018.12.14-19.44.25:949][592]LogWorld: Bringing up level for play took: 0.000396
+[2018.12.14-19.44.25:980][592]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CrossyRoadz 0.935
+[2018.12.14-19.44.25:980][592]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.44.28:993][948]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.44.28:993][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.44.29:031][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-19.44.29:031][948]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.44.29:062][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.44.29:100][950]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.12.14-19.44.32:575][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-19.44.35:872][737]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-19.44.35:889][737]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.44.35:889][737]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.14-19.44.35:894][737]LogPlayLevel: [PlayLevel] Compiling blue_car before play...
+[2018.12.14-19.44.36:037][737]LogPlayLevel: PlayLevel: Blueprint regeneration took 147 ms (1 blueprints)
+[2018.12.14-19.44.36:037][737]PIE: New page: PIE session: CrossyRoadz (Dec 14, 2018, 3:44:36 AM)
+[2018.12.14-19.44.36:037][737]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CrossyRoadz
+[2018.12.14-19.44.36:038][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001715s)
+[2018.12.14-19.44.36:039][737]LogAIModule: Creating AISystem for world CrossyRoadz
+[2018.12.14-19.44.36:039][737]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2018.12.14-19.44.36:039][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CrossyRoadz.CrossyRoadz to /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz (0.002533s)
+[2018.12.14-19.44.36:083][737]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-19.44.36:092][737]LogInit: FAudioDevice initialized.
+[2018.12.14-19.44.36:121][737]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.14-19.44.36:123][737]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz up for play (max tick rate 0) at 2018.12.14-11.44.36
+[2018.12.14-19.44.36:123][737]LogWorld: Bringing up level for play took: 0.000497
+[2018.12.14-19.44.36:156][737]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CrossyRoadz 1.111
+[2018.12.14-19.44.36:156][737]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.44.46:050][918]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.44.46:051][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.44.46:083][918]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-19.44.46:083][918]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.44.46:111][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.44.46:153][922]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.12.14-19.44.48:532][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-19.44.56:517][137]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-19.44.56:539][137]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.44.56:539][137]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.14-19.44.56:547][137]LogPlayLevel: [PlayLevel] Compiling blue_car before play...
+[2018.12.14-19.44.56:682][137]LogPlayLevel: PlayLevel: Blueprint regeneration took 142 ms (1 blueprints)
+[2018.12.14-19.44.56:682][137]PIE: New page: PIE session: CrossyRoadz (Dec 14, 2018, 3:44:56 AM)
+[2018.12.14-19.44.56:682][137]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CrossyRoadz
+[2018.12.14-19.44.56:684][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001683s)
+[2018.12.14-19.44.56:684][137]LogAIModule: Creating AISystem for world CrossyRoadz
+[2018.12.14-19.44.56:684][137]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2018.12.14-19.44.56:684][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CrossyRoadz.CrossyRoadz to /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz (0.002380s)
+[2018.12.14-19.44.56:727][137]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-19.44.56:736][137]LogInit: FAudioDevice initialized.
+[2018.12.14-19.44.56:764][137]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.14-19.44.56:765][137]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz up for play (max tick rate 0) at 2018.12.14-11.44.56
+[2018.12.14-19.44.56:766][137]LogWorld: Bringing up level for play took: 0.000388
+[2018.12.14-19.44.56:797][137]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CrossyRoadz -0.248
+[2018.12.14-19.44.56:797][137]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.44.59:456][451]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.44.59:456][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.44.59:490][451]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-19.44.59:490][451]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.44.59:516][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.44.59:558][455]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.12.14-19.45.01:425][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-19.45.05:314][118]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-19.45.05:331][118]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.45.05:331][118]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.14-19.45.05:335][118]LogPlayLevel: [PlayLevel] Compiling blue_car before play...
+[2018.12.14-19.45.05:477][118]LogPlayLevel: PlayLevel: Blueprint regeneration took 146 ms (1 blueprints)
+[2018.12.14-19.45.05:477][118]PIE: New page: PIE session: CrossyRoadz (Dec 14, 2018, 3:45:05 AM)
+[2018.12.14-19.45.05:477][118]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CrossyRoadz
+[2018.12.14-19.45.05:479][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001705s)
+[2018.12.14-19.45.05:479][118]LogAIModule: Creating AISystem for world CrossyRoadz
+[2018.12.14-19.45.05:479][118]LogPlayLevel: PIE: World Init took: (0.000522s)
+[2018.12.14-19.45.05:479][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CrossyRoadz.CrossyRoadz to /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz (0.002306s)
+[2018.12.14-19.45.05:529][118]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-19.45.05:537][118]LogInit: FAudioDevice initialized.
+[2018.12.14-19.45.05:567][118]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.14-19.45.05:568][118]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz up for play (max tick rate 0) at 2018.12.14-11.45.05
+[2018.12.14-19.45.05:568][118]LogWorld: Bringing up level for play took: 0.000537
+[2018.12.14-19.45.05:602][118]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CrossyRoadz 0.557
+[2018.12.14-19.45.05:602][118]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.45.08:588][471]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.45.08:589][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.45.08:625][471]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-19.45.08:625][471]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.45.08:652][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.45.08:695][475]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.12.14-19.45.12:088][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-19.45.23:819][247]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-19.45.23:835][247]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.45.23:835][247]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.14-19.45.23:840][247]LogPlayLevel: [PlayLevel] Compiling blue_car before play...
+[2018.12.14-19.45.23:978][247]LogPlayLevel: PlayLevel: Blueprint regeneration took 143 ms (1 blueprints)
+[2018.12.14-19.45.23:979][247]PIE: New page: PIE session: CrossyRoadz (Dec 14, 2018, 3:45:23 AM)
+[2018.12.14-19.45.23:979][247]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CrossyRoadz
+[2018.12.14-19.45.23:980][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001706s)
+[2018.12.14-19.45.23:981][247]LogAIModule: Creating AISystem for world CrossyRoadz
+[2018.12.14-19.45.23:981][247]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2018.12.14-19.45.23:981][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CrossyRoadz.CrossyRoadz to /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz (0.002403s)
+[2018.12.14-19.45.24:024][247]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-19.45.24:032][247]LogInit: FAudioDevice initialized.
+[2018.12.14-19.45.24:059][247]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.14-19.45.24:060][247]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz up for play (max tick rate 0) at 2018.12.14-11.45.24
+[2018.12.14-19.45.24:060][247]LogWorld: Bringing up level for play took: 0.000391
+[2018.12.14-19.45.24:092][247]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CrossyRoadz 1.047
+[2018.12.14-19.45.24:092][247]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.45.29:765][921]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.45.29:765][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.45.29:802][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-19.45.29:802][921]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.45.29:831][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.45.29:866][924]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.12.14-19.45.31:390][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-19.45.34:783][490]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-19.45.34:799][490]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.45.34:799][490]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.14-19.45.34:804][490]LogPlayLevel: [PlayLevel] Compiling blue_car before play...
+[2018.12.14-19.45.34:945][490]LogPlayLevel: PlayLevel: Blueprint regeneration took 145 ms (1 blueprints)
+[2018.12.14-19.45.34:946][490]PIE: New page: PIE session: CrossyRoadz (Dec 14, 2018, 3:45:34 AM)
+[2018.12.14-19.45.34:946][490]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CrossyRoadz
+[2018.12.14-19.45.34:947][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001613s)
+[2018.12.14-19.45.34:948][490]LogAIModule: Creating AISystem for world CrossyRoadz
+[2018.12.14-19.45.34:948][490]LogPlayLevel: PIE: World Init took: (0.000534s)
+[2018.12.14-19.45.34:948][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CrossyRoadz.CrossyRoadz to /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz (0.002225s)
+[2018.12.14-19.45.34:993][490]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-19.45.35:001][490]LogInit: FAudioDevice initialized.
+[2018.12.14-19.45.35:034][490]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.14-19.45.35:038][490]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz up for play (max tick rate 0) at 2018.12.14-11.45.35
+[2018.12.14-19.45.35:039][490]LogWorld: Bringing up level for play took: 0.001593
+[2018.12.14-19.45.35:078][490]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CrossyRoadz 0.034
+[2018.12.14-19.45.35:078][490]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.45.56:014][724]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.45.56:014][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.45.56:060][724]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-19.45.56:060][724]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.45.56:091][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.45.56:117][726]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.12.14-19.45.58:045][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-19.46.00:778][277]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-19.46.00:796][277]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.46.00:796][277]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.14-19.46.00:800][277]LogPlayLevel: [PlayLevel] Compiling blue_car before play...
+[2018.12.14-19.46.00:943][277]LogPlayLevel: PlayLevel: Blueprint regeneration took 146 ms (1 blueprints)
+[2018.12.14-19.46.00:943][277]PIE: New page: PIE session: CrossyRoadz (Dec 14, 2018, 3:46:00 AM)
+[2018.12.14-19.46.00:943][277]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CrossyRoadz
+[2018.12.14-19.46.00:944][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001579s)
+[2018.12.14-19.46.00:944][277]LogAIModule: Creating AISystem for world CrossyRoadz
+[2018.12.14-19.46.00:944][277]LogPlayLevel: PIE: World Init took: (0.000575s)
+[2018.12.14-19.46.00:944][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CrossyRoadz.CrossyRoadz to /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz (0.002276s)
+[2018.12.14-19.46.00:988][277]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-19.46.00:996][277]LogInit: FAudioDevice initialized.
+[2018.12.14-19.46.01:025][277]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.14-19.46.01:026][277]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz up for play (max tick rate 0) at 2018.12.14-11.46.01
+[2018.12.14-19.46.01:026][277]LogWorld: Bringing up level for play took: 0.000476
+[2018.12.14-19.46.01:058][277]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CrossyRoadz 0.013
+[2018.12.14-19.46.01:058][277]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.46.06:078][871]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.46.06:078][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.46.06:113][871]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-19.46.06:114][871]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.46.06:141][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.46.06:185][875]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.12.14-19.46.07:562][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-19.46.10:801][419]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-19.46.10:818][419]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.46.10:818][419]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.14-19.46.10:913][419]LogPlayLevel: [PlayLevel] Compiling blue_car before play...
+[2018.12.14-19.46.11:044][419]LogPlayLevel: PlayLevel: Blueprint regeneration took 226 ms (1 blueprints)
+[2018.12.14-19.46.11:044][419]PIE: New page: PIE session: CrossyRoadz (Dec 14, 2018, 3:46:11 AM)
+[2018.12.14-19.46.11:045][419]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CrossyRoadz
+[2018.12.14-19.46.11:046][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001666s)
+[2018.12.14-19.46.11:047][419]LogAIModule: Creating AISystem for world CrossyRoadz
+[2018.12.14-19.46.11:047][419]LogPlayLevel: PIE: World Init took: (0.000593s)
+[2018.12.14-19.46.11:047][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CrossyRoadz.CrossyRoadz to /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz (0.002370s)
+[2018.12.14-19.46.11:097][419]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-19.46.11:107][419]LogInit: FAudioDevice initialized.
+[2018.12.14-19.46.11:138][419]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.14-19.46.11:139][419]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz up for play (max tick rate 0) at 2018.12.14-11.46.11
+[2018.12.14-19.46.11:140][419]LogWorld: Bringing up level for play took: 0.000410
+[2018.12.14-19.46.11:171][419]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CrossyRoadz 0.126
+[2018.12.14-19.46.11:171][419]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.46.17:525][174]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.46.17:525][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.46.17:561][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-19.46.17:561][174]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.46.17:588][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.46.17:628][178]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.12.14-19.46.28:338][601]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.12.14-19.46.30:027][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-19.46.30:110][797]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-19.46.30:126][797]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.46.30:126][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-19.46.30:126][797]PIE: New page: PIE session: CrossyRoadz (Dec 14, 2018, 3:46:30 AM)
+[2018.12.14-19.46.30:126][797]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CrossyRoadz
+[2018.12.14-19.46.30:128][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001803s)
+[2018.12.14-19.46.30:129][797]LogAIModule: Creating AISystem for world CrossyRoadz
+[2018.12.14-19.46.30:129][797]LogPlayLevel: PIE: World Init took: (0.000513s)
+[2018.12.14-19.46.30:129][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CrossyRoadz.CrossyRoadz to /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz (0.002415s)
+[2018.12.14-19.46.30:175][797]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-19.46.30:184][797]LogInit: FAudioDevice initialized.
+[2018.12.14-19.46.30:210][797]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.14-19.46.30:211][797]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz up for play (max tick rate 0) at 2018.12.14-11.46.30
+[2018.12.14-19.46.30:212][797]LogWorld: Bringing up level for play took: 0.000471
+[2018.12.14-19.46.30:243][797]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CrossyRoadz -0.801
+[2018.12.14-19.46.30:244][797]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.46.36:836][505]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.46.36:836][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.46.36:886][505]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-19.46.36:886][505]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.46.36:915][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.46.36:942][507]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.12.14-19.46.49:555][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-19.46.49:630][ 26]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-19.46.49:646][ 26]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.46.49:646][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-19.46.49:647][ 26]PIE: New page: PIE session: CrossyRoadz (Dec 14, 2018, 3:46:49 AM)
+[2018.12.14-19.46.49:647][ 26]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CrossyRoadz
+[2018.12.14-19.46.49:648][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001698s)
+[2018.12.14-19.46.49:649][ 26]LogAIModule: Creating AISystem for world CrossyRoadz
+[2018.12.14-19.46.49:649][ 26]LogPlayLevel: PIE: World Init took: (0.000580s)
+[2018.12.14-19.46.49:649][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CrossyRoadz.CrossyRoadz to /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz (0.002360s)
+[2018.12.14-19.46.49:695][ 26]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-19.46.49:704][ 26]LogInit: FAudioDevice initialized.
+[2018.12.14-19.46.49:734][ 26]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.14-19.46.49:735][ 26]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz up for play (max tick rate 0) at 2018.12.14-11.46.49
+[2018.12.14-19.46.49:735][ 26]LogWorld: Bringing up level for play took: 0.000430
+[2018.12.14-19.46.49:766][ 26]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CrossyRoadz 0.721
+[2018.12.14-19.46.49:766][ 26]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.46.56:394][816]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.46.56:395][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.46.56:431][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-19.46.56:431][816]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.46.56:457][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.46.56:496][820]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.12.14-19.47.00:978][346]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-19.47.00:996][346]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.47.00:997][346]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.14-19.47.01:002][346]LogPlayLevel: [PlayLevel] Compiling blue_car before play...
+[2018.12.14-19.47.01:143][346]LogPlayLevel: PlayLevel: Blueprint regeneration took 146 ms (1 blueprints)
+[2018.12.14-19.47.01:144][346]PIE: New page: PIE session: CrossyRoadz (Dec 14, 2018, 3:47:01 AM)
+[2018.12.14-19.47.01:144][346]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CrossyRoadz
+[2018.12.14-19.47.01:145][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001678s)
+[2018.12.14-19.47.01:145][346]LogAIModule: Creating AISystem for world CrossyRoadz
+[2018.12.14-19.47.01:145][346]LogPlayLevel: PIE: World Init took: (0.000514s)
+[2018.12.14-19.47.01:145][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CrossyRoadz.CrossyRoadz to /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz (0.002269s)
+[2018.12.14-19.47.01:192][346]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-19.47.01:200][346]LogInit: FAudioDevice initialized.
+[2018.12.14-19.47.01:231][346]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.14-19.47.01:233][346]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz up for play (max tick rate 0) at 2018.12.14-11.47.01
+[2018.12.14-19.47.01:233][346]LogWorld: Bringing up level for play took: 0.000430
+[2018.12.14-19.47.01:264][346]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CrossyRoadz 0.219
+[2018.12.14-19.47.01:264][346]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.47.20:275][370]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.47.20:275][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.47.20:322][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-19.47.20:322][370]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.47.20:352][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.47.20:380][372]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.12.14-19.47.23:090][684]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-19.47.23:110][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/vehicles/blue_car" FILE="F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Content/Blueprints/vehicles/blue_car.uasset" SILENT=true
+[2018.12.14-19.47.23:140][684]LogSavePackage: Moving 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/blue_car5B15025C45DDB11A24C0E2BF0FE4D47D.tmp' to 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Content/Blueprints/vehicles/blue_car.uasset'
+[2018.12.14-19.47.46:788][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-19.48.21:545][464]Cmd: TRANSACTION UNDO
+[2018.12.14-19.48.21:546][464]LogEditorTransaction: Undo Edit Max Speed
+[2018.12.14-19.48.26:827][771]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.14-19.48.26:904][771]LogSlate: Window 'blue_car*' being destroyed
+[2018.12.14-19.48.26:910][771]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.14-19.48.28:379][883]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/vehicles/blue_car.blue_car
+[2018.12.14-19.48.37:239][838]LogMetaData: Removing '/Game/Blueprints/vehicles/MasterCar.MasterCar_C' ref from Metadata '/Game/Blueprints/vehicles/blue_car.PackageMetaData'
+[2018.12.14-19.48.37:239][838]LogMetaData: Removing '/Game/Blueprints/vehicles/MasterCar.MasterCar:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/vehicles/blue_car.PackageMetaData'
+[2018.12.14-19.48.37:239][838]LogMetaData: Removing '/Game/Blueprints/vehicles/MasterCar.MasterCar:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/vehicles/blue_car.PackageMetaData'
+[2018.12.14-19.48.37:239][838]LogMetaData: Removing '/Game/Blueprints/vehicles/MasterCar.MasterCar:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/vehicles/blue_car.PackageMetaData'
+[2018.12.14-19.48.37:239][838]LogMetaData: Removing '/Game/Blueprints/vehicles/MasterCar.MasterCar:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/vehicles/blue_car.PackageMetaData'
+[2018.12.14-19.48.37:239][838]LogMetaData: Removing '/Game/Blueprints/vehicles/MasterCar.SKEL_MasterCar_C' ref from Metadata '/Game/Blueprints/vehicles/blue_car.PackageMetaData'
+[2018.12.14-19.48.37:269][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/vehicles/MasterCar" FILE="F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Content/Blueprints/vehicles/MasterCar.uasset" SILENT=true
+[2018.12.14-19.48.37:290][838]LogSavePackage: Moving 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/MasterCar6ED9DB0B4D0403CDE3F366A980053BBD.tmp' to 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Content/Blueprints/vehicles/MasterCar.uasset'
+[2018.12.14-19.48.37:575][838]LogSavePackage: Moving 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/road1165E1E1744E6D38E740EDEACC303C332.tmp' to 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Content/Blueprints/Map_Assets_BP/roads_BP/road1.uasset'
+[2018.12.14-19.48.48:504][102]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Map_Assets_BP/roads_BP/MasterTile.MasterTile
+[2018.12.14-19.48.52:675][550]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Map_Assets_BP/roads_BP/road1.road1
+[2018.12.14-19.48.54:432][715]BlueprintLog: New page: Compile road1
+[2018.12.14-19.49.18:035][392]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/vehicles/RedCar.RedCar
+[2018.12.14-19.49.29:222][619]LogMetaData: Removing '/Game/Blueprints/vehicles/Purple_car.SKEL_Purple_car_C' ref from Metadata '/Game/Blueprints/vehicles/RedCar.PackageMetaData'
+[2018.12.14-19.49.29:222][619]LogMetaData: Removing '/Game/Blueprints/vehicles/Purple_car.Purple_car_C' ref from Metadata '/Game/Blueprints/vehicles/RedCar.PackageMetaData'
+[2018.12.14-19.49.29:253][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/vehicles/Purple_car" FILE="F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Content/Blueprints/vehicles/Purple_car.uasset" SILENT=true
+[2018.12.14-19.49.29:282][619]LogSavePackage: Moving 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Purple_carDEBAB8354C588DFB3E9AE5B95013851D.tmp' to 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Content/Blueprints/vehicles/Purple_car.uasset'
+[2018.12.14-19.51.52:288][644]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2018.12.14-19.52.09:123][537]BlueprintLog: New page: Compile Purple_car
+[2018.12.14-19.53.10:486][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/vehicles/Purple_car" FILE="F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Content/Blueprints/vehicles/Purple_car.uasset" SILENT=true
+[2018.12.14-19.53.10:904][813]LogSavePackage: Moving 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Purple_car57531AF24D6B08A31A125D94FCE13618.tmp' to 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Content/Blueprints/vehicles/Purple_car.uasset'
+[2018.12.14-19.53.17:063][520]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-19.53.17:088][520]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.53.17:089][520]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-19.53.17:089][520]PIE: New page: PIE session: CrossyRoadz (Dec 14, 2018, 3:53:17 AM)
+[2018.12.14-19.53.17:089][520]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CrossyRoadz
+[2018.12.14-19.53.17:091][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001834s)
+[2018.12.14-19.53.17:091][520]LogAIModule: Creating AISystem for world CrossyRoadz
+[2018.12.14-19.53.17:091][520]LogPlayLevel: PIE: World Init took: (0.000612s)
+[2018.12.14-19.53.17:091][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CrossyRoadz.CrossyRoadz to /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz (0.002543s)
+[2018.12.14-19.53.17:140][520]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-19.53.17:148][520]LogInit: FAudioDevice initialized.
+[2018.12.14-19.53.17:185][520]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.14-19.53.17:187][520]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz up for play (max tick rate 0) at 2018.12.14-11.53.17
+[2018.12.14-19.53.17:187][520]LogWorld: Bringing up level for play took: 0.000460
+[2018.12.14-19.53.17:218][520]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CrossyRoadz 0.174
+[2018.12.14-19.53.17:219][520]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.53.20:883][949]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.53.20:883][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.53.20:928][949]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-19.53.20:928][949]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.53.20:958][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.53.20:985][951]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.12.14-19.58.15:745][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-19.58.15:821][136]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-19.58.16:493][136]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.58.16:494][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-19.58.16:494][136]PIE: New page: PIE session: CrossyRoadz (Dec 14, 2018, 3:58:16 AM)
+[2018.12.14-19.58.16:494][136]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CrossyRoadz
+[2018.12.14-19.58.16:496][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002027s)
+[2018.12.14-19.58.16:497][136]LogAIModule: Creating AISystem for world CrossyRoadz
+[2018.12.14-19.58.16:497][136]LogPlayLevel: PIE: World Init took: (0.000889s)
+[2018.12.14-19.58.16:497][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CrossyRoadz.CrossyRoadz to /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz (0.003021s)
+[2018.12.14-19.58.16:550][136]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-19.58.16:558][136]LogInit: FAudioDevice initialized.
+[2018.12.14-19.58.16:586][136]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.14-19.58.16:588][136]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz up for play (max tick rate 0) at 2018.12.14-11.58.16
+[2018.12.14-19.58.16:588][136]LogWorld: Bringing up level for play took: 0.000485
+[2018.12.14-19.58.16:621][136]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CrossyRoadz -0.424
+[2018.12.14-19.58.16:621][136]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.58.20:212][530]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.58.20:213][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.58.20:260][530]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-19.58.20:260][530]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-19.58.20:291][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-19.58.20:318][532]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.12.14-19.58.26:708][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-20.03.48:519][249]LogSavePackage: Moving 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/road1AA5066134EF4B83F9A3252BB23E4F1B3.tmp' to 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Content/Blueprints/Map_Assets_BP/roads_BP/road1.uasset'
+[2018.12.14-20.03.51:102][549]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-20.03.51:123][549]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.03.51:123][549]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.14-20.03.51:133][549]LogPlayLevel: [PlayLevel] Compiling road1 before play...
+[2018.12.14-20.03.51:143][549]LogBlueprint: Error: [Compiler road1] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.12.14-20.03.51:143][549]LogBlueprint: Error: [Compiler road1] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.12.14-20.03.51:144][549]LogBlueprint: Warning: [Compiler road1] [1342.74] Compile of road1 failed. 2 Fatal Issue(s) 0 Warning(s) [in 13 ms] (/Game/Blueprints/Map_Assets_BP/roads_BP/road1.road1)
+[2018.12.14-20.03.51:275][549]LogPlayLevel: PlayLevel: Blueprint regeneration took 151 ms (1 blueprints)
+[2018.12.14-20.03.51:275][549]BlueprintLog: Blueprint road1 failed to compile
+[2018.12.14-20.03.53:839][549]LogSlate: Window 'Message' being destroyed
+[2018.12.14-20.03.53:846][549]PIE: New page: PIE session: CrossyRoadz (Dec 14, 2018, 4:03:53 AM)
+[2018.12.14-20.03.53:846][549]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CrossyRoadz
+[2018.12.14-20.03.53:849][549]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002681s)
+[2018.12.14-20.03.53:850][549]LogAIModule: Creating AISystem for world CrossyRoadz
+[2018.12.14-20.03.53:850][549]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2018.12.14-20.03.53:850][549]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CrossyRoadz.CrossyRoadz to /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz (0.003676s)
+[2018.12.14-20.03.53:900][549]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-20.03.53:909][549]LogInit: FAudioDevice initialized.
+[2018.12.14-20.03.53:938][549]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.14-20.03.53:940][549]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz up for play (max tick rate 0) at 2018.12.14-12.03.53
+[2018.12.14-20.03.53:940][549]LogWorld: Bringing up level for play took: 0.000465
+[2018.12.14-20.03.53:956][549]LogScript: Warning: Accessed None trying to read property SpawnPoint
+	GM_Tutorial_C /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz:PersistentLevel.GM_Tutorial_C_0
+	Function /Game/Blueprints/GM_Tutorial.GM_Tutorial_C:SpawnTile:01F7
+[2018.12.14-20.03.53:956][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SpawnPoint". Blueprint:  GM_Tutorial Function:  Spawn Tile Graph:  SpawnTile Node:  Set
+[2018.12.14-20.03.53:956][549]LogScript: Warning: Accessed None trying to read property SpawnPoint
+	GM_Tutorial_C /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz:PersistentLevel.GM_Tutorial_C_0
+	Function /Game/Blueprints/GM_Tutorial.GM_Tutorial_C:SpawnTile:01F7
+[2018.12.14-20.03.53:956][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SpawnPoint". Blueprint:  GM_Tutorial Function:  Spawn Tile Graph:  SpawnTile Node:  Set
+[2018.12.14-20.03.53:956][549]LogScript: Warning: Accessed None trying to read property SpawnPoint
+	GM_Tutorial_C /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz:PersistentLevel.GM_Tutorial_C_0
+	Function /Game/Blueprints/GM_Tutorial.GM_Tutorial_C:SpawnTile:01F7
+[2018.12.14-20.03.53:957][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SpawnPoint". Blueprint:  GM_Tutorial Function:  Spawn Tile Graph:  SpawnTile Node:  Set
+[2018.12.14-20.03.53:957][549]LogScript: Warning: Accessed None trying to read property SpawnPoint
+	GM_Tutorial_C /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz:PersistentLevel.GM_Tutorial_C_0
+	Function /Game/Blueprints/GM_Tutorial.GM_Tutorial_C:SpawnTile:01F7
+[2018.12.14-20.03.53:957][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SpawnPoint". Blueprint:  GM_Tutorial Function:  Spawn Tile Graph:  SpawnTile Node:  Set
+[2018.12.14-20.03.53:958][549]LogScript: Warning: Accessed None trying to read property SpawnPoint
+	GM_Tutorial_C /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz:PersistentLevel.GM_Tutorial_C_0
+	Function /Game/Blueprints/GM_Tutorial.GM_Tutorial_C:SpawnTile:01F7
+[2018.12.14-20.03.53:959][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SpawnPoint". Blueprint:  GM_Tutorial Function:  Spawn Tile Graph:  SpawnTile Node:  Set
+[2018.12.14-20.03.53:959][549]LogScript: Warning: Accessed None trying to read property SpawnPoint
+	GM_Tutorial_C /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz:PersistentLevel.GM_Tutorial_C_0
+	Function /Game/Blueprints/GM_Tutorial.GM_Tutorial_C:SpawnTile:01F7
+[2018.12.14-20.03.53:959][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SpawnPoint". Blueprint:  GM_Tutorial Function:  Spawn Tile Graph:  SpawnTile Node:  Set
+[2018.12.14-20.03.53:960][549]LogScript: Warning: Accessed None trying to read property SpawnPoint
+	GM_Tutorial_C /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz:PersistentLevel.GM_Tutorial_C_0
+	Function /Game/Blueprints/GM_Tutorial.GM_Tutorial_C:SpawnTile:01F7
+[2018.12.14-20.03.53:960][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SpawnPoint". Blueprint:  GM_Tutorial Function:  Spawn Tile Graph:  SpawnTile Node:  Set
+[2018.12.14-20.03.53:961][549]LogScript: Warning: Accessed None trying to read property SpawnPoint
+	GM_Tutorial_C /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz:PersistentLevel.GM_Tutorial_C_0
+	Function /Game/Blueprints/GM_Tutorial.GM_Tutorial_C:SpawnTile:01F7
+[2018.12.14-20.03.53:961][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SpawnPoint". Blueprint:  GM_Tutorial Function:  Spawn Tile Graph:  SpawnTile Node:  Set
+[2018.12.14-20.03.53:964][549]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CrossyRoadz 2.919
+[2018.12.14-20.03.53:964][549]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.03.59:371][187]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.03.59:371][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-20.03.59:406][187]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-20.03.59:406][187]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.03.59:437][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-20.03.59:449][187]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-20.03.59:484][188]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.12.14-20.04.03:654][646]LogSlate: Window 'Message Log' being destroyed
+[2018.12.14-20.04.03:660][646]LogSlate: Window 'Message Log' being destroyed
+[2018.12.14-20.04.28:979][606]BlueprintLog: New page: Compile road1
+[2018.12.14-20.04.29:319][606]LogBlueprint: Error: [Compiler road1] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.12.14-20.04.29:319][606]LogBlueprint: Error: [Compiler road1] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.12.14-20.04.29:443][606]LogBlueprint: Warning: [Compiler road1] [1381.03] Compile of road1 failed. 2 Fatal Issue(s) 0 Warning(s) [in 464 ms] (/Game/Blueprints/Map_Assets_BP/roads_BP/road1.road1)
+[2018.12.14-20.04.30:541][731]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-20.04.30:565][731]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.04.30:565][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-20.04.32:484][731]LogSlate: Window 'Message' being destroyed
+[2018.12.14-20.04.32:490][731]PIE: New page: PIE session: CrossyRoadz (Dec 14, 2018, 4:04:32 AM)
+[2018.12.14-20.04.32:490][731]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CrossyRoadz
+[2018.12.14-20.04.32:493][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003127s)
+[2018.12.14-20.04.32:494][731]LogAIModule: Creating AISystem for world CrossyRoadz
+[2018.12.14-20.04.32:494][731]LogPlayLevel: PIE: World Init took: (0.001161s)
+[2018.12.14-20.04.32:494][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CrossyRoadz.CrossyRoadz to /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz (0.004465s)
+[2018.12.14-20.04.32:547][731]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-20.04.32:558][731]LogInit: FAudioDevice initialized.
+[2018.12.14-20.04.32:585][731]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.14-20.04.32:586][731]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz up for play (max tick rate 0) at 2018.12.14-12.04.32
+[2018.12.14-20.04.32:586][731]LogWorld: Bringing up level for play took: 0.000396
+[2018.12.14-20.04.32:599][731]LogScript: Warning: Accessed None trying to read property SpawnPoint
+	GM_Tutorial_C /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz:PersistentLevel.GM_Tutorial_C_0
+	Function /Game/Blueprints/GM_Tutorial.GM_Tutorial_C:SpawnTile:01F7
+[2018.12.14-20.04.32:599][731]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SpawnPoint". Blueprint:  GM_Tutorial Function:  Spawn Tile Graph:  SpawnTile Node:  Set
+[2018.12.14-20.04.32:599][731]LogScript: Warning: Accessed None trying to read property SpawnPoint
+	GM_Tutorial_C /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz:PersistentLevel.GM_Tutorial_C_0
+	Function /Game/Blueprints/GM_Tutorial.GM_Tutorial_C:SpawnTile:01F7
+[2018.12.14-20.04.32:599][731]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SpawnPoint". Blueprint:  GM_Tutorial Function:  Spawn Tile Graph:  SpawnTile Node:  Set
+[2018.12.14-20.04.32:599][731]LogScript: Warning: Accessed None trying to read property SpawnPoint
+	GM_Tutorial_C /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz:PersistentLevel.GM_Tutorial_C_0
+	Function /Game/Blueprints/GM_Tutorial.GM_Tutorial_C:SpawnTile:01F7
+[2018.12.14-20.04.32:599][731]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SpawnPoint". Blueprint:  GM_Tutorial Function:  Spawn Tile Graph:  SpawnTile Node:  Set
+[2018.12.14-20.04.32:600][731]LogScript: Warning: Accessed None trying to read property SpawnPoint
+	GM_Tutorial_C /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz:PersistentLevel.GM_Tutorial_C_0
+	Function /Game/Blueprints/GM_Tutorial.GM_Tutorial_C:SpawnTile:01F7
+[2018.12.14-20.04.32:600][731]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SpawnPoint". Blueprint:  GM_Tutorial Function:  Spawn Tile Graph:  SpawnTile Node:  Set
+[2018.12.14-20.04.32:601][731]LogScript: Warning: Accessed None trying to read property SpawnPoint
+	GM_Tutorial_C /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz:PersistentLevel.GM_Tutorial_C_0
+	Function /Game/Blueprints/GM_Tutorial.GM_Tutorial_C:SpawnTile:01F7
+[2018.12.14-20.04.32:601][731]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SpawnPoint". Blueprint:  GM_Tutorial Function:  Spawn Tile Graph:  SpawnTile Node:  Set
+[2018.12.14-20.04.32:604][731]LogScript: Warning: Accessed None trying to read property SpawnPoint
+	GM_Tutorial_C /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz:PersistentLevel.GM_Tutorial_C_0
+	Function /Game/Blueprints/GM_Tutorial.GM_Tutorial_C:SpawnTile:01F7
+[2018.12.14-20.04.32:604][731]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SpawnPoint". Blueprint:  GM_Tutorial Function:  Spawn Tile Graph:  SpawnTile Node:  Set
+[2018.12.14-20.04.32:610][731]LogScript: Warning: Accessed None trying to read property SpawnPoint
+	GM_Tutorial_C /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz:PersistentLevel.GM_Tutorial_C_0
+	Function /Game/Blueprints/GM_Tutorial.GM_Tutorial_C:SpawnTile:01F7
+[2018.12.14-20.04.32:610][731]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SpawnPoint". Blueprint:  GM_Tutorial Function:  Spawn Tile Graph:  SpawnTile Node:  Set
+[2018.12.14-20.04.32:610][731]LogScript: Warning: Accessed None trying to read property SpawnPoint
+	GM_Tutorial_C /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz:PersistentLevel.GM_Tutorial_C_0
+	Function /Game/Blueprints/GM_Tutorial.GM_Tutorial_C:SpawnTile:01F7
+[2018.12.14-20.04.32:610][731]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SpawnPoint". Blueprint:  GM_Tutorial Function:  Spawn Tile Graph:  SpawnTile Node:  Set
+[2018.12.14-20.04.32:611][731]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CrossyRoadz 1.566
+[2018.12.14-20.04.32:612][731]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.04.36:438][169]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.04.36:438][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-20.04.36:471][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-20.04.36:471][169]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.04.36:502][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-20.04.36:541][170]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2018.12.14-20.04.41:231][703]LogSlate: Window 'Message Log' being destroyed
+[2018.12.14-20.04.41:236][703]LogSlate: Window 'Message Log' being destroyed
+[2018.12.14-20.05.37:575][703]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/CrossyRoadz' took 0.030
+[2018.12.14-20.05.37:576][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Map_Assets_BP/roads_BP/road1] ([1] browsable assets)...
+[2018.12.14-20.05.37:585][703]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Map_Assets_BP/roads_BP/road1.road1]
+[2018.12.14-20.05.37:585][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Map_Assets_BP/roads_BP/road1]
+[2018.12.14-20.05.37:690][703]LogSavePackage: Moving 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/road1_Auto19DEC6649488A5C00E5AD208AF98A38F9.tmp' to 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Autosaves/Game/Blueprints/Map_Assets_BP/roads_BP/road1_Auto1.uasset'
+[2018.12.14-20.05.37:691][703]LogFileHelpers: Auto-saving content packages took 0.117
+[2018.12.14-20.26.39:707][232]BlueprintLog: New page: Compile road1
+[2018.12.14-20.26.42:303][426]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-20.26.42:328][426]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.26.42:328][426]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-20.26.42:328][426]PIE: New page: PIE session: CrossyRoadz (Dec 14, 2018, 4:26:42 AM)
+[2018.12.14-20.26.42:328][426]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CrossyRoadz
+[2018.12.14-20.26.42:330][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002477s)
+[2018.12.14-20.26.42:331][426]LogAIModule: Creating AISystem for world CrossyRoadz
+[2018.12.14-20.26.42:331][426]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2018.12.14-20.26.42:331][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CrossyRoadz.CrossyRoadz to /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz (0.003437s)
+[2018.12.14-20.26.42:381][426]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-20.26.42:392][426]LogInit: FAudioDevice initialized.
+[2018.12.14-20.26.42:425][426]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.14-20.26.42:426][426]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz up for play (max tick rate 0) at 2018.12.14-12.26.42
+[2018.12.14-20.26.42:426][426]LogWorld: Bringing up level for play took: 0.000499
+[2018.12.14-20.26.42:457][426]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CrossyRoadz -0.587
+[2018.12.14-20.26.42:457][426]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.27.01:621][231]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.27.01:621][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-20.27.01:674][231]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-20.27.01:674][231]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.27.01:709][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-20.27.01:734][232]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2018.12.14-20.27.03:717][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-20.27.11:470][244]BlueprintLog: New page: Compile road1
+[2018.12.14-20.27.13:253][426]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-20.27.13:277][426]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.27.13:277][426]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-20.27.13:277][426]PIE: New page: PIE session: CrossyRoadz (Dec 14, 2018, 4:27:13 AM)
+[2018.12.14-20.27.13:277][426]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CrossyRoadz
+[2018.12.14-20.27.13:280][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002608s)
+[2018.12.14-20.27.13:281][426]LogAIModule: Creating AISystem for world CrossyRoadz
+[2018.12.14-20.27.13:281][426]LogPlayLevel: PIE: World Init took: (0.000620s)
+[2018.12.14-20.27.13:281][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CrossyRoadz.CrossyRoadz to /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz (0.003322s)
+[2018.12.14-20.27.13:338][426]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-20.27.13:347][426]LogInit: FAudioDevice initialized.
+[2018.12.14-20.27.13:375][426]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.14-20.27.13:376][426]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz up for play (max tick rate 0) at 2018.12.14-12.27.13
+[2018.12.14-20.27.13:376][426]LogWorld: Bringing up level for play took: 0.000394
+[2018.12.14-20.27.13:409][426]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CrossyRoadz 0.364
+[2018.12.14-20.27.13:409][426]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.27.18:092][919]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.27.18:092][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-20.27.18:139][919]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-20.27.18:139][919]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.27.18:168][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-20.27.18:209][921]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2018.12.14-20.27.19:528][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-20.27.22:868][459]BlueprintLog: New page: Compile road1
+[2018.12.14-20.27.24:882][661]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-20.27.24:910][661]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.27.24:911][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-20.27.24:911][661]PIE: New page: PIE session: CrossyRoadz (Dec 14, 2018, 4:27:24 AM)
+[2018.12.14-20.27.24:911][661]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CrossyRoadz
+[2018.12.14-20.27.24:913][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002100s)
+[2018.12.14-20.27.24:913][661]LogAIModule: Creating AISystem for world CrossyRoadz
+[2018.12.14-20.27.24:914][661]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2018.12.14-20.27.24:914][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CrossyRoadz.CrossyRoadz to /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz (0.002986s)
+[2018.12.14-20.27.24:971][661]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-20.27.24:980][661]LogInit: FAudioDevice initialized.
+[2018.12.14-20.27.25:010][661]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.14-20.27.25:012][661]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz up for play (max tick rate 0) at 2018.12.14-12.27.25
+[2018.12.14-20.27.25:012][661]LogWorld: Bringing up level for play took: 0.000505
+[2018.12.14-20.27.25:043][661]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CrossyRoadz -0.002
+[2018.12.14-20.27.25:043][661]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.27.30:625][288]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.27.30:625][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-20.27.30:671][288]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-20.27.30:671][288]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.27.30:709][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-20.27.30:735][289]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.12.14-20.27.32:583][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-20.27.35:526][828]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-20.27.35:549][828]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.27.35:549][828]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.14-20.27.35:562][828]LogPlayLevel: [PlayLevel] Compiling road1 before play...
+[2018.12.14-20.27.35:729][828]LogPlayLevel: PlayLevel: Blueprint regeneration took 180 ms (1 blueprints)
+[2018.12.14-20.27.35:729][828]PIE: New page: PIE session: CrossyRoadz (Dec 14, 2018, 4:27:35 AM)
+[2018.12.14-20.27.35:729][828]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CrossyRoadz
+[2018.12.14-20.27.35:731][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001846s)
+[2018.12.14-20.27.35:732][828]LogAIModule: Creating AISystem for world CrossyRoadz
+[2018.12.14-20.27.35:732][828]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2018.12.14-20.27.35:732][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CrossyRoadz.CrossyRoadz to /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz (0.002639s)
+[2018.12.14-20.27.35:781][828]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-20.27.35:790][828]LogInit: FAudioDevice initialized.
+[2018.12.14-20.27.35:822][828]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.14-20.27.35:823][828]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz up for play (max tick rate 0) at 2018.12.14-12.27.35
+[2018.12.14-20.27.35:824][828]LogWorld: Bringing up level for play took: 0.000450
+[2018.12.14-20.27.35:855][828]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CrossyRoadz 0.81
+[2018.12.14-20.27.35:856][828]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.27.46:111][807]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.27.46:111][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-20.27.46:163][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-20.27.46:164][807]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.27.46:197][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-20.27.46:219][808]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2018.12.14-20.27.48:294][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-20.27.55:550][886]BlueprintLog: New page: Compile road1
+[2018.12.14-20.27.56:609][985]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-20.27.56:636][985]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.27.56:637][985]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-20.27.56:637][985]PIE: New page: PIE session: CrossyRoadz (Dec 14, 2018, 4:27:56 AM)
+[2018.12.14-20.27.56:637][985]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CrossyRoadz
+[2018.12.14-20.27.56:639][985]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001892s)
+[2018.12.14-20.27.56:639][985]LogAIModule: Creating AISystem for world CrossyRoadz
+[2018.12.14-20.27.56:639][985]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2018.12.14-20.27.56:640][985]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CrossyRoadz.CrossyRoadz to /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz (0.002719s)
+[2018.12.14-20.27.56:697][985]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-20.27.56:707][985]LogInit: FAudioDevice initialized.
+[2018.12.14-20.27.56:740][985]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.14-20.27.56:741][985]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz up for play (max tick rate 0) at 2018.12.14-12.27.56
+[2018.12.14-20.27.56:741][985]LogWorld: Bringing up level for play took: 0.000383
+[2018.12.14-20.27.56:775][985]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CrossyRoadz -0.27
+[2018.12.14-20.27.56:775][985]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.27.58:402][176]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.27.58:402][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-20.27.58:435][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-20.27.58:436][176]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-20.27.58:465][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-20.27.58:507][180]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2018.12.14-20.27.59:988][353]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-20.28.00:065][353]LogSavePackage: Moving 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/road15D38052D46477CC4857E7D8F62A3BBEC.tmp' to 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Content/Blueprints/Map_Assets_BP/roads_BP/road1.uasset'
+[2018.12.14-21.05.45:944][948]BlueprintLog: New page: Compile road1
+[2018.12.14-21.06.39:980][170]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.14-21.08.42:314][178]BlueprintLog: New page: Compile road1
+[2018.12.14-21.08.46:199][513]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-21.08.46:223][513]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-21.08.46:223][513]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-21.08.46:223][513]PIE: New page: PIE session: CrossyRoadz (Dec 14, 2018, 5:08:46 AM)
+[2018.12.14-21.08.46:223][513]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CrossyRoadz
+[2018.12.14-21.08.46:225][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001948s)
+[2018.12.14-21.08.46:226][513]LogAIModule: Creating AISystem for world CrossyRoadz
+[2018.12.14-21.08.46:226][513]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2018.12.14-21.08.46:226][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CrossyRoadz.CrossyRoadz to /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz (0.002967s)
+[2018.12.14-21.08.46:279][513]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-21.08.46:288][513]LogInit: FAudioDevice initialized.
+[2018.12.14-21.08.46:320][513]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.14-21.08.46:321][513]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz up for play (max tick rate 0) at 2018.12.14-13.08.46
+[2018.12.14-21.08.46:321][513]LogWorld: Bringing up level for play took: 0.000414
+[2018.12.14-21.08.46:355][513]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CrossyRoadz -0.69
+[2018.12.14-21.08.46:355][513]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-21.09.02:124][ 79]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-21.09.02:124][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-21.09.02:168][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-21.09.02:168][ 79]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-21.09.02:198][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-21.09.02:227][ 81]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2018.12.14-21.09.04:722][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-21.10.56:342][659]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/CrossyRoadz' took 0.028
+[2018.12.14-21.10.56:343][659]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Map_Assets_BP/roads_BP/road1] ([1] browsable assets)...
+[2018.12.14-21.10.56:352][659]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Map_Assets_BP/roads_BP/road1.road1]
+[2018.12.14-21.10.56:352][659]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Map_Assets_BP/roads_BP/road1]
+[2018.12.14-21.10.56:415][659]LogSavePackage: Moving 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/road1_Auto21ED8AA9941A1B2727CCD759B7A919110.tmp' to 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Autosaves/Game/Blueprints/Map_Assets_BP/roads_BP/road1_Auto2.uasset'
+[2018.12.14-21.10.56:415][659]LogFileHelpers: Auto-saving content packages took 0.072
+[2018.12.14-21.19.13:981][657]BlueprintLog: New page: Compile road1
+[2018.12.14-21.20.53:071][307]BlueprintLog: New page: Compile Purple_car
+[2018.12.14-21.20.54:888][501]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-21.20.54:911][501]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-21.20.54:911][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-21.20.54:911][501]PIE: New page: PIE session: CrossyRoadz (Dec 14, 2018, 5:20:54 AM)
+[2018.12.14-21.20.54:911][501]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CrossyRoadz
+[2018.12.14-21.20.54:913][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001788s)
+[2018.12.14-21.20.54:913][501]LogAIModule: Creating AISystem for world CrossyRoadz
+[2018.12.14-21.20.54:913][501]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2018.12.14-21.20.54:914][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CrossyRoadz.CrossyRoadz to /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz (0.002589s)
+[2018.12.14-21.20.54:972][501]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-21.20.54:982][501]LogInit: FAudioDevice initialized.
+[2018.12.14-21.20.55:009][501]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.14-21.20.55:010][501]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz up for play (max tick rate 0) at 2018.12.14-13.20.55
+[2018.12.14-21.20.55:010][501]LogWorld: Bringing up level for play took: 0.000425
+[2018.12.14-21.20.55:042][501]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CrossyRoadz -0.003
+[2018.12.14-21.20.55:042][501]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-21.21.32:123][422]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-21.21.32:124][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-21.21.32:171][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-21.21.32:172][422]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-21.21.32:206][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-21.21.32:226][423]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2018.12.14-21.21.33:824][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-21.21.38:025][ 94]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-21.21.38:048][ 94]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-21.21.38:048][ 94]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.14-21.21.38:051][ 94]LogPlayLevel: [PlayLevel] Compiling Purple_car before play...
+[2018.12.14-21.21.38:201][ 94]LogPlayLevel: PlayLevel: Blueprint regeneration took 153 ms (1 blueprints)
+[2018.12.14-21.21.38:201][ 94]PIE: New page: PIE session: CrossyRoadz (Dec 14, 2018, 5:21:38 AM)
+[2018.12.14-21.21.38:201][ 94]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CrossyRoadz
+[2018.12.14-21.21.38:203][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001704s)
+[2018.12.14-21.21.38:203][ 94]LogAIModule: Creating AISystem for world CrossyRoadz
+[2018.12.14-21.21.38:203][ 94]LogPlayLevel: PIE: World Init took: (0.000535s)
+[2018.12.14-21.21.38:204][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CrossyRoadz.CrossyRoadz to /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz (0.002334s)
+[2018.12.14-21.21.38:252][ 94]LogInit: XAudio2 using 'VG248 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.14-21.21.38:261][ 94]LogInit: FAudioDevice initialized.
+[2018.12.14-21.21.38:294][ 94]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.14-21.21.38:296][ 94]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CrossyRoadz.CrossyRoadz up for play (max tick rate 0) at 2018.12.14-13.21.38
+[2018.12.14-21.21.38:296][ 94]LogWorld: Bringing up level for play took: 0.000426
+[2018.12.14-21.21.38:328][ 94]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CrossyRoadz 1.283
+[2018.12.14-21.21.38:328][ 94]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-21.22.02:979][660]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-21.22.02:979][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-21.22.03:030][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-21.22.03:031][660]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz' with GeneratedClass '/Game/Levels/CrossyRoadz.CrossyRoadz_C' with ClassGeneratedBy '/Game/Levels/CrossyRoadz.CrossyRoadz:PersistentLevel.CrossyRoadz'
+[2018.12.14-21.22.03:061][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-21.22.03:080][661]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2018.12.14-21.22.05:735][966]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-21.22.05:810][966]LogSavePackage: Moving 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/road144F28BB14ED7EC4086FFE09FAAFB1327.tmp' to 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Content/Blueprints/Map_Assets_BP/roads_BP/road1.uasset'
+[2018.12.14-21.22.05:823][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/vehicles/Purple_car" FILE="F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Content/Blueprints/vehicles/Purple_car.uasset" SILENT=true
+[2018.12.14-21.22.05:858][966]LogSavePackage: Moving 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/Purple_car0DB3FACC40D8839337AE56A3452BFB90.tmp' to 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Content/Blueprints/vehicles/Purple_car.uasset'
+[2018.12.14-21.22.48:411][855]LogMetaData: Removing '/Game/Blueprints/Map_Assets_BP/roads_BP/road_L_R.road_L_R_C' ref from Metadata '/Game/Blueprints/Map_Assets_BP/roads_BP/road1.PackageMetaData'
+[2018.12.14-21.22.48:411][855]LogMetaData: Removing '/Game/Blueprints/Map_Assets_BP/roads_BP/road_L_R.SKEL_road_L_R_C' ref from Metadata '/Game/Blueprints/Map_Assets_BP/roads_BP/road1.PackageMetaData'
+[2018.12.14-21.22.48:496][855]LogSavePackage: Moving 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/road_L_R36F31BDE4D7FBB16CA0AA28C149EF11C.tmp' to 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Content/Blueprints/Map_Assets_BP/roads_BP/road_L_R.uasset'
+[2018.12.14-21.22.48:751][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Tutorial" FILE="F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Content/Blueprints/GM_Tutorial.uasset" SILENT=true
+[2018.12.14-21.22.48:779][855]LogSavePackage: Moving 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/GM_Tutorial5B1F93A34D3C0C6C650089B8DD688D4C.tmp' to 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Content/Blueprints/GM_Tutorial.uasset'
+[2018.12.14-21.23.20:515][372]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Map_Assets_BP/roads_BP/road_R_L.road_R_L
+[2018.12.14-21.23.31:305][559]LogSavePackage: Moving 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Saved/road_R_L18C016FB4D4D139A1827F3AA48926F59.tmp' to 'F:/FALL2018/CPSC386_VGD/UNREAL/CrossyRoadz/CrossyRoadz/Content/Blueprints/Map_Assets_BP/roads_BP/road_R_L.uasset'
+[2018.12.14-21.23.45:610][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-21.23.51:644][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-21.23.56:658][505]LogEditorTransaction: Undo Set Location
+[2018.12.14-21.23.56:662][505]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2018.12.14-21.23.57:258][505]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.596 s
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: 
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: 
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: Stack: 
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffab4c9996 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffab46f8ba UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffa535fa42 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffa5360795 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffa530d4c1 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffb6dbfe72 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffb6d84809 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffb6e2c40e UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffb6c39ca1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffb6bd0fd4 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffa9cf8444 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffa9a5b7cf UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffa9a30299 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffa9dfcd43 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffa9ddec40 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffa9d88744 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffa9de5baa UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffa9a0ef3b UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffa9a416ee UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffa9a62c2d UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffab46feed UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffab49ac06 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffab48131c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffab4eb337 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffab52f63f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffab4c717f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffa9a30fe8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffb6bd206f UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.14-21.23.57:258][505]LogOutputDevice: Error: [Callstack] 0x00007fffb6c14c8e UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.14-21.23.57:259][505]LogOutputDevice: Error: [Callstack] 0x00007fffabd46bee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.14-21.23.57:259][505]LogOutputDevice: Error: [Callstack] 0x00007fffabd34b88 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.14-21.23.57:259][505]LogOutputDevice: Error: [Callstack] 0x00007fffb6b9694c UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.14-21.23.57:259][505]LogOutputDevice: Error: [Callstack] 0x00007fffb6c1697c UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.14-21.23.57:259][505]LogOutputDevice: Error: [Callstack] 0x00007fffb6c09a36 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.14-21.23.57:259][505]LogOutputDevice: Error: [Callstack] 0x00007fffe016daa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.14-21.23.57:259][505]LogOutputDevice: Error: [Callstack] 0x00007fffe0160de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.14-21.23.57:259][505]LogOutputDevice: Error: [Callstack] 0x00007fffe01701eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.14-21.23.57:259][505]LogOutputDevice: Error: [Callstack] 0x00007fffe015ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.14-21.23.57:259][505]LogOutputDevice: Error: [Callstack] 0x00007ff818206d41 USER32.dll!UnknownFunction []
+[2018.12.14-21.23.57:259][505]LogOutputDevice: Error: [Callstack] 0x00007ff818206713 USER32.dll!UnknownFunction []
+[2018.12.14-21.23.57:259][505]LogOutputDevice: Error: [Callstack] 0x00007fffe0171746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.14-21.23.57:259][505]LogOutputDevice: Error: [Callstack] 0x00007ff7c2a05546 UE4Editor.exe!UnknownFunction []
+[2018.12.14-21.23.57:259][505]LogOutputDevice: Error: [Callstack] 0x00007ff7c2a1596c UE4Editor.exe!UnknownFunction []
+[2018.12.14-21.23.57:259][505]LogOutputDevice: Error: [Callstack] 0x00007ff7c2a159ea UE4Editor.exe!UnknownFunction []
+[2018.12.14-21.23.57:259][505]LogOutputDevice: Error: [Callstack] 0x00007ff7c2a248da UE4Editor.exe!UnknownFunction []
+[2018.12.14-21.23.57:259][505]LogOutputDevice: Error: [Callstack] 0x00007ff7c2a2659a UE4Editor.exe!UnknownFunction []
+[2018.12.14-21.23.57:259][505]LogOutputDevice: Error: [Callstack] 0x00007ff81aad3034 KERNEL32.DLL!UnknownFunction []
+[2018.12.14-21.23.57:259][505]LogOutputDevice: Error: [Callstack] 0x00007ff81ad83691 ntdll.dll!UnknownFunction []
+[2018.12.14-21.23.57:259][505]LogOutputDevice: Error: 
+[2018.12.14-21.23.57:260][505]LogStats:                SubmitErrorReport -  0.000 s
